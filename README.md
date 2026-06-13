@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Verma</h1>
 <h3 align="center"></h3>
 
-# <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> Socials:
+## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> Socials:
 <div align="left">
   <a href="mailto:akashvverma4002@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
