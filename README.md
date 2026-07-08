@@ -22,25 +22,6 @@
 
 ---
 
-# 💫 About Me
-
-```python
-class ArpithaSPatil:
-    education = "B.E. Computer Science, JIT-VTU Bangalore (2027)"
-    current_roles = [
-        "Apprentice @ Commonwealth Bank of Australia",
-        "AI & Software Development Intern @ Ellipsonic"
-    ]
-    focus = [
-        "Retrieval-Augmented Generation (RAG)",
-        "Automated Data Processing Systems",
-        "Cloud-Native AI/ML Solutions"
-    ]
-    fun_fact = "I enjoy turning ideas into production-ready software."
-```
-
----
-
 # 🚀 Tech Stack
 
 ### Languages
@@ -62,47 +43,6 @@ class ArpithaSPatil:
 <p>
 <img src="https://skillicons.dev/icons?i=aws,gcp,git,postman,vscode"/>
 </p>
-
----
-
-# 🌟 Featured Projects
-
-### 🤖 RAG Chatbot — Multi-Domain AI Assistant
-> Context-aware chatbot built with Python, LangChain, FAISS, and Gemini API. Indexed 500+ domain documents into a vector database for semantic search and low-latency retrieval across medical, legal, and emotional-support domains.
-
----
-
-### 📈 Real-Time Cryptocurrency Data Aggregator
-> Analytics platform integrating market overviews, sentiment analysis, and DeFi yields with 90% data accuracy. Built with Python, OpenAI, and Google Cloud — reduced latency by 35% with sub-200ms visualization refresh.
-
----
-
-### 🍽️ Campus Canteen Management Application
-> MERN stack system handling 200+ daily requests with 5+ RESTful APIs for authentication, menu handling, and real-time order tracking — improved order processing speed by 35%.
-
----
-
-# 🏆 Certifications
-
-- ☁️ AWS Cloud Foundations
-- ☁️ Google Cloud Computing Foundations
-- 🤖 Introduction to Generative AI
-- 🎖️ National Cadet Corps (NCC), JIT
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
 
 ---
 
