@@ -60,7 +60,7 @@
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitha2907&theme=tokyo-night&hide_border=true"/>
 
 ---
 
@@ -68,6 +68,6 @@
 
 ### 💡 "Great software isn't just written — it's engineered."
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=arpitha2907&style=for-the-badge"/>
 
 </div>
