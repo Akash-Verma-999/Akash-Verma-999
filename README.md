@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/arpitha-s-patil-20b624294/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?style=for-the-badge"/>
+  <a href="https://github.com/arpitha2907">
+    <img src="https://img.shields.io/github/followers/arpitha2907?style=for-the-badge"/>
   </a>
 </p>
 
