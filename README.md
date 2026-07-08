@@ -24,7 +24,7 @@
 
 # 🚀 Tech Stack
 
-<img align="right" height="170" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="coding gif" />
+<img align="right" height="170" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" alt="girl coding gif" />
 
 ### Languages
 <p>
