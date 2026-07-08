@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/arpitha-s-patil-20b624294/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?style=for-the-badge"/>
+  <a href="https://github.com/arpitha2907">
+    <img src="https://img.shields.io/github/followers/arpitha2907?style=for-the-badge"/>
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitha2907&theme=tokyo-night&hide_border=true"/>
 
 ---
 
@@ -68,6 +68,6 @@
 
 ### 💡 "Great software isn't just written — it's engineered."
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=arpitha2907&style=for-the-badge"/>
 
 </div>
