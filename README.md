@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Verma</h1>
 <h3 align="center"></h3>
 
-
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> Socials:
 <div align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=akashvverma4002@gmail.com">
