@@ -26,10 +26,3 @@
 
 <img alt="Space Shooter contribution graph" src="https://raw.githubusercontent.com/Akash-Verma-999/Akash-Verma-999/main/src/gif/game.gif" />
 
-### 🕹️ Pac-Man Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash-Verma-999/Akash-Verma-999/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akash-Verma-999/Akash-Verma-999/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Akash-Verma-999/Akash-Verma-999/output/pacman-contribution-graph.svg">
-</picture>
