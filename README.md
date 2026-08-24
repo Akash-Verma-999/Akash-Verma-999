@@ -22,12 +22,10 @@
 ---
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akash-verma-999/akash-verma-999/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akash-verma-999/akash-verma-999/output/pacman-contribution-graph.svg">
+
 
 <img alt="GitHub Contribution Graph Game" src="https://raw.githubusercontent.com/akash-verma-999/akash-verma-999/main/src/gif/game.gif" />
-</picture>
+
 
 ###
 
