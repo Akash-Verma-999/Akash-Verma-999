@@ -22,7 +22,7 @@
 
 ---
 
-### 🚀 Space Shooter Contribution Graph
+### Contribution Graph
 
 <img alt="Space Shooter contribution graph" src="https://raw.githubusercontent.com/Akash-Verma-999/Akash-Verma-999/main/src/gif/game.gif" />
 
