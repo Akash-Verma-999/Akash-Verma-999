@@ -2,10 +2,8 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # daily at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write
@@ -16,10 +14,14 @@ jobs:
     steps:
       - uses: actions/checkout@v6
         with:
-          fetch-depth: 2   # required by the action
+          fetch-depth: 2
+
+      - name: Create output directory
+        run: mkdir -p src/gif
 
       - uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'src/gif/game.gif'
           strategy: 'random'
+          no-amend: true
